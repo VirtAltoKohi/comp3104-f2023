@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VirtAltoKohi/comp3104-f2023.git"
+    "url": "git+https://github.com/VirtAltoKohi/comp3104-f2023.git"
   },
   "keywords": ["devops", "nodejs", "express", "web"],
   "author": "Evan James",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirtAltoKohi/comp3104-f2023.git"
+  }
 }
