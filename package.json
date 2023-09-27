@@ -1,0 +1,16 @@
+{
+  "name": "comp3104-f2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VirtAltoKohi/comp3104-f2023.git"
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Evan James",
+  "license": "ISC"
+}
